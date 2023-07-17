@@ -19,7 +19,7 @@ npm install
 
 5. Navigate to the [credentials section](https://console.cloud.google.com/apis/credentials?project=massive-concept-383720) of the API's and services.
 
-6. Create a OAuth cliend ID credential. Name it whatever you like. For *Application type* select Web application. 
+6. Create a OAuth client ID credential. Name it whatever you like. For *Application type* select Web application. 
 
 7. Add the following Authorized origins:
 ```
